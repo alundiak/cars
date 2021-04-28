@@ -14,7 +14,7 @@ const SCOPES = [
 const TOKEN_PATH = 'token.json';
 const tokenPath = path.join(__dirname, TOKEN_PATH);
 
-// TOKEN_PATH and SCOPES should be different for MT and GL drives.
+// TOKEN_PATH and SCOPES should be different for MY and GL drives.
 
 const CREDENTIALS_PATH = 'credentials.json';
 const credentialsPath = path.join(__dirname, CREDENTIALS_PATH);
